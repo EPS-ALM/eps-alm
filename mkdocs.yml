@@ -1,0 +1,21 @@
+site_name: ALM
+
+nav:
+  - Sobre: index.md
+  - Artefatos:
+    - Termo de Abertura do Projeto: Artefatos/TAP.md
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      linenums: true
+
+theme:
+  name: 'material'
+  palette:
+    primary: black
+    accent: indigo
+  theme:
+    font:
+      text: Ubuntu
+      code: Ubuntu Mono
