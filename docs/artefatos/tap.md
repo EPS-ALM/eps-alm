@@ -1,7 +1,5 @@
 # Termo de Abertura do Projeto - Assets and Liability Management
 
-[**Acesse o Termo de Abertura do Projeto**](https://docs.google.com/document/d/1RtdJ9rD9EtuHnIm3jXQxQEWQ7D4RZyzI8Id0qLZPs0Y/edit?tab=t.0)
-
 ## 1. Justificativa do Projeto
 Desenvolvimento de um software de gestão de ativos e passivos para fundos de pensão, focado na administração de investimentos e análises de risco, visando atender a demanda de jovens planejando suas aposentadorias.
 

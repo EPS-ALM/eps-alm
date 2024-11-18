@@ -46,7 +46,6 @@
 | Distribuição de Papéis                            | Descrição dos papéis e responsabilidades de cada participante, com foco na definição das funções para facilitar o fluxo de trabalho. |
 | Acordos de Serviço                                | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto.                         |
 
-[termo-de-abertura]: https://docs.google.com/document/d/1RtdJ9rD9EtuHnIm3jXQxQEWQ7D4RZyzI8Id0qLZPs0Y/edit?tab=t.0
 [rmc]: http://lattes.cnpq.br/0716559775355685  
 [afr]: https://github.com/ArthurFerreiraRodrigues
 [lpq]: https://github.com/LucasPimentel123
