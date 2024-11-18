@@ -3,7 +3,8 @@ site_name: ALM
 nav:
   - Sobre: index.md
   - Artefatos:
-    - Termo de Abertura do Projeto: Artefatos/TAP.md
+    - Termo de Abertura do Projeto: artefatos/tap.md
+    - Termo de Acordo de Serviço: artefatos/ts.md
 
 markdown_extensions:
   - admonition
@@ -13,8 +14,8 @@ markdown_extensions:
 theme:
   name: 'material'
   palette:
-    primary: black
-    accent: indigo
+    primary: light green
+    accent: deep orange 
   theme:
     font:
       text: Ubuntu
