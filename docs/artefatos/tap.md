@@ -9,7 +9,7 @@ Desenvolvimento de um software de gestão de ativos e passivos para fundos de pe
 - **Principal**: Criar um software que permita controle de ativos e passivos e análises de risco para a gerência de um fundo de pensão.
 - **Entregas**:
   - MVP com 11 funcionalidades até 16/12/2024.
-  - 20 funcionalidades completas até 13/02/2025, com uma nova entrega semanal após o MVP.
+  - 21 funcionalidades completas até 13/02/2025, com uma nova entrega semanal após o MVP.
 
 ## 3. Descrição do Produto/Serviço
 O ALM será uma plataforma digital para gestão de ativos e passivos de fundos de pensão, com foco em jovens planejando suas aposentadorias. O sistema permitirá análises internas de risco, monitoramento de conformidade regulatória e geração de relatórios financeiros e fornecerá simulações de planos de investimento.
