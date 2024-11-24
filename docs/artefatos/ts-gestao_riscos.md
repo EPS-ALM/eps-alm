@@ -108,7 +108,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 ## Assinaturas
 - [ ] Eliás Yousef Santana Ali:  
 - [x] José Luís Ramos Teixeira: **190057858**
-- [ ] Pablo Christianno Silva: 
+- [x] Pablo Christianno Silva: **200042416**
 - [x] Pedro Vitor Augusto de Jesus: **200073249**
 - [ ] Renato Britto Araujo:  
 - [ ] Victor Hugo Siqueira Costa: 
