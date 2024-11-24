@@ -109,7 +109,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [ ] Eliás Yousef Santana Ali:  
 - [x] José Luís Ramos Teixeira: **190057858**
 - [ ] Pablo Christianno Silva: 
-- [ ] Pedro Vitor Augusto de Jesus:
+- [x] Pedro Vitor Augusto de Jesus:
 - [ ] Renato Britto Araujo:  
 - [ ] Victor Hugo Siqueira Costa: 
 - [ ] Wesley Pedrosa dos Santos:
