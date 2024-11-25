@@ -113,10 +113,6 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [ ] Renato Britto Araujo:  
 - [ ] Victor Hugo Siqueira Costa: 
 - [ ] Wesley Pedrosa dos Santos:
-
-- Representante do Cliente: (Prof. PhD. Ricardo M. Chaim)
-    - [ ] _________________________________ [Assinatura]
-
 - Data: 24/11/2024
 
 --- 
