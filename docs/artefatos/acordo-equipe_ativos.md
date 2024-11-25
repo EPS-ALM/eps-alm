@@ -99,7 +99,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [] Eduardo Maia Rezende: ****
 - [] Fernando: ****
 - [X] Lucas Pimentel: **190016663**
-- [] Marcos Vinicius: ****
+- [X] Marcos Vinicius: **200062379**
 - Data: 25/11/2024
 
 --- 
