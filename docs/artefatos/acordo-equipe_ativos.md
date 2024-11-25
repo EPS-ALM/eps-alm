@@ -98,7 +98,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [] Augusto Camargo: ****
 - [] Eduardo Maia Rezende: ****
 - [] Fernando: ****
-- [] Lucas Pimentel: ****
+- [X] Lucas Pimentel: **190016663**
 - [] Marcos Vinicius: ****
 - Data: 25/11/2024
 
