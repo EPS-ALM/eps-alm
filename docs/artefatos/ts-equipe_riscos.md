@@ -106,7 +106,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - Condições: Rescisão por qualquer uma das partes mediante aviso prévio de 15 dias, sujeito a penalidades definidas.
 
 ## Assinaturas
-- [ ] Eliás Yousef Santana Ali:  
+- [x] Eliás Yousef Santana Ali:  **190027088**
 - [x] José Luís Ramos Teixeira: **190057858**
 - [x] Pablo Christianno Silva: **200042416**
 - [x] Pedro Vitor Augusto de Jesus: **200073249**
