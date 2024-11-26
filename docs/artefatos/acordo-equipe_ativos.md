@@ -1,4 +1,4 @@
-# Acordo de Serviço - Equipe de Gestão de Riscos
+# Acordo de Serviço - Equipe de Gestão de Ativos
 
 **Nome dos Desenvolvedores**: 
 
