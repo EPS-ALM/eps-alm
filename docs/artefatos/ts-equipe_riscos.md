@@ -111,7 +111,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [x] Pablo Christianno Silva: **200042416**
 - [x] Pedro Vitor Augusto de Jesus: **200073249**
 - [ ] Renato Britto Araujo:  
-- [ ] Victor Hugo Siqueira Costa: 
+- [x] Victor Hugo Siqueira Costa: **180149598**
 - [ ] Wesley Pedrosa dos Santos:
 - Data: 24/11/2024
 
