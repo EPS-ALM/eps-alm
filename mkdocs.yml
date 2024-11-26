@@ -6,7 +6,7 @@ nav:
     - Termo de Abertura do Projeto: artefatos/tap.md
     - Termo de Acordo de Serviço: artefatos/ts.md
     - Termo de Acordo de Serviço (Equipe Gestão de Ativos): artefatos/acordo_de_servico_equipe_ativos.md
-    - Termo de Acordo de Serviço (Equipe Gestão de Passivos): artefatos/ts-equipe_passivos.md
+    - Termo de Acordo de Serviço (Equipe Gestão de Passivos): artefatos/acordo-equipe_passivos.md
 
 markdown_extensions:
   - admonition

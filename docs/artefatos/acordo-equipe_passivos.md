@@ -1,14 +1,15 @@
-# Acordo de Serviço - Equipe de Gestão de Riscos
+# Acordo de Serviço - Equipe de Gestão de Passivos
 
 **Nome dos Desenvolvedores**: 
 
-- Eliás Yousef Santana Ali  
-- José Luís Ramos Teixeira  
-- Pablo Christianno Silva  
-- Pedro Vitor Augusto de Jesus  
-- Renato Britto Araujo  
-- Victor Hugo Siqueira Costa  
-- Wesley Pedrosa dos Santos  
+- Savio Cunha de Carvalho
+- Gabrielle Ribeiro Gomes
+- Gustavo Barbosa de Oliveira
+- Danilo Domingo Vitoriano Silva 
+- Deivid Alves de Carvalho
+- Gustavo Martins Ribeiro
+- Cristian Souza Assis Furtado
+ 
 
 **Projeto**: Sistema de *Asset Liability Management* (ALM)
 
@@ -19,33 +20,26 @@
 ## 1. Introdução
 
 ### Objetivo  
-Este acordo tem como objetivo definir as responsabilidades da equipe de Gestão de Riscos no desenvolvimento do sistema de ALM. A equipe será responsável por implementar funcionalidades relacionadas à avaliação, monitoramento e mitigação de riscos associados aos ativos e passivos dos fundos de pensão, com foco na sustentabilidade financeira a longo prazo. Este acordo também busca proteger a atuação dos membros da equipe em circunstâncias que possam inviabilizar o desenvolvimento das funcionalidades sob sua responsabilidade.
+Este acordo tem como objetivo definir as responsabilidades da equipe de Gestão de Passivos no desenvolvimento do sistema de ALM. A equipe será responsável por implementar funcionalidades relacionadas à avaliação, monitoramento e mitigação de riscos associados aos ativos e passivos dos fundos de pensão, com foco na sustentabilidade financeira a longo prazo. Este acordo também busca proteger a atuação dos membros da equipe em circunstâncias que possam inviabilizar o desenvolvimento das funcionalidades sob sua responsabilidade.
 
 ---
 
 ## 2. Escopo do Trabalho
 
 ### Responsabilidades Específicas  
-A equipe será responsável pelas seguintes áreas dentro da gestão de riscos:
+A equipe será responsável pelas seguintes áreas dentro da gestão de passivos:
+ - **Simulação de Cenários Econômicos**: Criação de cenários hipotéticos para prever o impacto econômico em ativos.
+    - _Detalhes de implementação_: Gerar múltiplos cenários usando distribuições probabilísticas e avaliar o impacto em portfólios.
+- **Monitoramento e previsão de fluxos de caixa para garantir a liquidez.**: Criação de cenários hipotéticos para prever o impacto econômico em ativos.
+    - _Detalhes de implementação_: Desenvolver dashboards para monitoramento em tempo real de entradas e saídas de caixa.
+- **Análise de Sensibilidade da Carteira**: Avaliação de como diferentes variáveis impactam o resultado financeiro.
+    - _Detalhes de implementação_: Criar um módulo que permita ajustes de variáveis e visualização dos impactos em tempo real.
+- **Previsão de Fluxo de Caixa**: Previsão de fluxos de caixa futuros para otimização de tesouraria.
+    - _Detalhes de implementação_: Utilizar algoritmos de machine learning para melhorar a precisão das previsões de fluxo de caixa.
 
-- **Análise de Risco País**  
-  - Implementação de modelos para avaliação de riscos políticos e econômicos associados a diferentes países.
-  - Integração de informações geopolíticas e econômicas para análise de risco.  
-
-- **Gerenciamento de Risco de Taxa de Juros**  
-  - Desenvolvimento de simulações de impacto das variações das taxas de juros sobre ativos e passivos.
-  - Implementação de modelos de duration e convexidade para análise de sensibilidade.  
-
-- **Gestão de Risco de Investimento**  
-  - Criação de algoritmos de otimização de portfólio e análise de risco/retorno.
-  - Desenvolvimento de ferramentas para avaliação de risco de investimentos diversificados.  
-
-- **Monitoramento de Risco de Ativos Digitais**  
-  - Implementação de ferramentas de monitoramento e análise para ativos digitais, como criptomoedas.
-  - Modelagem de volatilidade e riscos específicos associados a ativos digitais.  
 
 ### Limitações e Condições para Execução  
-Para viabilizar o cumprimento deste acordo, a equipe de Gestão de Riscos terá suporte para:  
+Para viabilizar o cumprimento deste acordo, a equipe de Gestão de Passivos terá suporte para:  
 - Acesso a ferramentas e tecnologias, como Moody's Analytics, Kamakura Risk Manager, Oracle Financial Services, e FIS Ambit Focus.  
 - Colaboração com outras equipes para integração de módulos e alinhamento de requisitos.  
 - Infraestrutura necessária para simulações, modelos de otimização e monitoramento em tempo real.
@@ -54,7 +48,7 @@ Para viabilizar o cumprimento deste acordo, a equipe de Gestão de Riscos terá 
 
 ## 3. Critérios de Desempenho  
 
-A equipe de Gestão de Riscos se compromete a:  
+A equipe de Gestão de Passivos se compromete a:  
 
 - **Entrega Pontual**: Cumprir prazos conforme estabelecido no cronograma do projeto.  
 - **Qualidade e Eficiência**: Garantir que os módulos desenvolvidos sejam revisados e testados, com taxa de erro inferior a 2% em ambiente de desenvolvimento.  
@@ -69,7 +63,7 @@ Para assegurar a viabilidade do trabalho, o projeto deve garantir:
 - **Acesso a Recursos Necessários**: Disponibilidade de infraestrutura e licenças das ferramentas mencionadas.  
 - **Apoio na Resolução de Dependências**: Suporte de outros times em integrações ou dependências externas.  
 
-Caso qualquer uma dessas condições não seja atendida, a equipe de Gestão de Riscos poderá renegociar prazos e redefinir escopos.  
+Caso qualquer uma dessas condições não seja atendida, a equipe de Gestão de Passivos poderá renegociar prazos e redefinir escopos.  
 
 ---
 
@@ -89,7 +83,7 @@ Caso qualquer uma dessas condições não seja atendida, a equipe de Gestão de 
 
 ### Proteções para a Equipe  
 Caso as condições para execução não sejam atendidas:  
-- A equipe de Gestão de Riscos não será responsabilizada por atrasos causados por falta de infraestrutura ou requisitos incompletos.  
+- A equipe de Gestão de Passivos não será responsabilizada por atrasos causados por falta de infraestrutura ou requisitos incompletos.  
 - Em casos de inviabilidade, será convocada uma reunião para readequação do escopo e cronograma.  
 
 ### Penalidades para Não Conformidade  
@@ -106,13 +100,14 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - Condições: Rescisão por qualquer uma das partes mediante aviso prévio de 15 dias, sujeito a penalidades definidas.
 
 ## Assinaturas
-- [x] Eliás Yousef Santana Ali:  **190027088**
-- [x] José Luís Ramos Teixeira: **190057858**
-- [x] Pablo Christianno Silva: **200042416**
-- [x] Pedro Vitor Augusto de Jesus: **200073249**
-- [ ] Renato Britto Araujo:  
-- [x] Victor Hugo Siqueira Costa: **180149598**
-- [ ] Wesley Pedrosa dos Santos:
+- [ ] Savio Cunha de Carvalho:
+- [ ] Gabrielle Ribeiro Gomes:
+- [ ] Gustavo Barbosa de Oliveira:
+- [ ] Danilo Domingo Vitoriano Silva:
+- [ ] Deivid Alves de Carvalho:
+- [ ] Gustavo Martins Ribeiro:
+- [X] Cristian Souza Assis Furtado: *170008291*
+
 - Data: 24/11/2024
 
 --- 
