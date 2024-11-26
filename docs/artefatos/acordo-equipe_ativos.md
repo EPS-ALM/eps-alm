@@ -97,7 +97,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [X] Arthur Ferreira: **200056981**
 - [] Augusto Camargo: ****
 - [] Eduardo Maia Rezende: ****
-- [] Fernando: ****
+- [x] Fernando: **180016491**
 - [X] Lucas Pimentel: **190016663**
 - [X] Marcos Vinicius: **200062379**
 - Data: 25/11/2024
