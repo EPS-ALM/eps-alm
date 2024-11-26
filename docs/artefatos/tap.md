@@ -97,6 +97,21 @@ Com base no custo orçado de mão de obra e infraestrutura, o orçamento total d
 - Aderência a padrões de qualidade e conformidade regulatória.
 - Satisfação das partes interessadas.
 
+### Métricas de Qualidade
+
+- **Disponibilidade**: Garantir 90% de tempo de atividade para a plataforma.
+- **Desempenho**: Manter tempos de resposta (latência) e throughput otimizados para suportar interações em tempo real.
+- **Erros e Defeitos**: Monitorar o número de erros e defeitos identificados, com resolução dentro de sprints.
+- **Tempo de Ciclo**: Medir o tempo de ciclo das sprints (1 semana) para garantir eficiência nas entregas.
+- **Eficiência de Código**: Reduzir a duplicação de código, com 80% de cobertura de testes automatizados.
+
+### Boas Práticas
+
+- **Desenvolvimento em Pares**: Adoção de práticas de Extreme Programming (XP), com pares de desenvolvedores revisando constantemente o código durante a programação.
+- **Refatoração Contínua**: Realizar refatoração regular para eliminar "mau cheiro" de código e promover um código limpo e de fácil manutenção.
+- **Controle de Versionamento**: Utilizar convenções de commit, issues, branches e pull requests para manter um fluxo de trabalho organizado e eficiente.
+
+
 ## 9. Partes Interessadas Principais
 - Patrocinador: Ricardo Chaim
 - Gerente de Projeto: Arthur Ferreira e Lucas Pimentel
