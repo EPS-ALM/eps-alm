@@ -95,7 +95,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 
 ## Assinaturas
 - [X] Arthur Ferreira: **200056981**
-- [] Augusto Camargo: ****
+- [x] Augusto Camargo: **190084731**
 - [] Eduardo Maia Rezende: ****
 - [x] Fernando: **180016491**
 - [X] Lucas Pimentel: **190016663**
