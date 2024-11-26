@@ -3,6 +3,7 @@ site_name: ALM
 nav:
   - Sobre: index.md
   - Relatório de Status: artefatos/relatorio-semanal.md
+  - Atas: artefatos/atas-reunioes.md
   - Artefatos:
     - Termo de Abertura do Projeto: artefatos/tap.md
     - Termo de Acordo de Serviço: artefatos/ts.md
