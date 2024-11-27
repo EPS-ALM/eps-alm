@@ -112,7 +112,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [x] Pedro Vitor Augusto de Jesus: **200073249**
 - [ ] Renato Britto Araujo:  
 - [x] Victor Hugo Siqueira Costa: **180149598**
-- [ ] Wesley Pedrosa dos Santos:
+- [x] Wesley Pedrosa dos Santos: **180029240**
 - Data: 24/11/2024
 
 --- 
