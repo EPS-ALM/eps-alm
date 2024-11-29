@@ -105,7 +105,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - [ ] Gustavo Barbosa de Oliveira:
 - [X] Danilo Domingo Vitoriano Silva: *180015311*
 - [ ] Deivid Alves de Carvalho:
-- [ ] Gustavo Martins Ribeiro:
+- [X] Gustavo Martins Ribeiro:
 - [X] Cristian Souza Assis Furtado: *170008291*
 
 - Data: 24/11/2024
