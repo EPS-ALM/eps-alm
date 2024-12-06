@@ -5,11 +5,13 @@ nav:
   - Relatório de Status: artefatos/relatorio-semanal.md
   - Atas: artefatos/atas-reunioes.md
   - Artefatos:
-    - Termo de Abertura do Projeto: artefatos/tap.md
-    - Termo de Acordo de Serviço: artefatos/ts.md
-    - Termo de Acordo de Serviço (Equipe Gestão de Ativos): artefatos/acordo-equipe_ativos.md
-    - Termo de Acordo de Serviço (Equipe Gestão de Passivos): artefatos/acordo-equipe_passivos.md
-    - Termo de Acordo de Serviço (Equipe Gestão de Riscos): artefatos/acordo-equipe_riscos.md
+      - Termo de Abertura do Projeto: artefatos/tap.md
+      - Termo de Acordo de Serviço: artefatos/ts.md
+      - Acordos de Serviço:
+          - Termo de Acordo de Serviço (Equipe Gestão de Ativos): artefatos/acordo-equipe_ativos.md
+          - Termo de Acordo de Serviço (Equipe Gestão de Passivos): artefatos/acordo-equipe_passivos.md
+          - Termo de Acordo de Serviço (Equipe Gestão de Riscos): artefatos/acordo-equipe_riscos.md
+      - Documento de Arquitetura de Software:
 
 markdown_extensions:
   - admonition
@@ -17,10 +19,10 @@ markdown_extensions:
       linenums: true
 
 theme:
-  name: 'material'
+  name: "material"
   palette:
     primary: light green
-    accent: deep orange 
+    accent: deep orange
   theme:
     font:
       text: Ubuntu
