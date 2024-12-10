@@ -117,4 +117,4 @@ Estará em uso um banco de dados SQL, o banco de dados PostgreSQL, utilizado pel
 | Versão | Data       | Descrição                                         | Autor          |
 | ------ | ---------- | ------------------------------------------------- | -------------- |
 | 1.0    | 04/12/2024 | Documento inicial                                 | Lucas Pimentel |
-| 1.1    | 10/12/2024 | Adiciona Diagrama de Pacotes e mais documentações | Lucas Pimentel |
+| 2.0    | 10/12/2024 | Adiciona Diagrama de Pacotes e mais documentações | Lucas Pimentel |
