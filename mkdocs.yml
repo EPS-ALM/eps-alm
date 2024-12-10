@@ -10,6 +10,7 @@ nav:
       - Story map:
         - Personas: artefatos/storymap/personas.md
         - Elicitação de requisitos: artefatos/storymap/elicitacao-requisitos.md
+        - Histórias de usuário: artefatos/storymap/historias-usuario.md
       - Acordos de Serviço:
           - Termo de Acordo de Serviço (Equipe Gestão de Ativos): artefatos/acordo-equipe_ativos.md
           - Termo de Acordo de Serviço (Equipe Gestão de Passivos): artefatos/acordo-equipe_passivos.md
