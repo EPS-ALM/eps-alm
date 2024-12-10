@@ -180,4 +180,4 @@ Este documento apresenta a elicitação de requisitos a partir das funcionalidad
 
 | Versão | Data       | Descrição                          | Autor       |
 |--------|------------|------------------------------------|-------------|
-| 1.0    | 10/12/2024 | Documento inicial                 | Marcos      
+| 1.0    | 10/12/2024 | Documento inicial                 | Marcos Deus  |
