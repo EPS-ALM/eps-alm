@@ -17,7 +17,7 @@ O escopo deste documento é entendido como o escopo do ALM e seus componentes. S
 
 ## 2. Representação Arquitetural
 
-![Representação arquitetural](../../static/img/architectural_representation.png)
+![Representação arquitetural](static/img/architectural_representation.png)
 
 ### 2.1 Service
 
@@ -50,11 +50,11 @@ O front-end é uma das interfaces com o usuário. Neste caso, o front-end é a i
 
 #### 4.1.1 Service
 
-![Diagrama Pacotes Service](..\assets\diagramaPacotesService.jpeg)
+![Diagrama Pacotes Service](docs/assets/diagramaPacotesService.jpeg)
 
 #### 4.1.2 Cores
 
-![Diagrama Pacotes Service](..\assets\diagramaPacotesCore.png)
+![Diagrama Pacotes Service](docs/assets/diagramaPacotesCore.png)
 
 ## 5. Visão de Processo
 
