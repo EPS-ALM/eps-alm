@@ -100,7 +100,7 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 - Condições: Rescisão por qualquer uma das partes mediante aviso prévio de 15 dias, sujeito a penalidades definidas.
 
 ## Assinaturas
-- [ ] Savio Cunha de Carvalho:
+- [X] Savio Cunha de Carvalho: *180130889*
 - [ ] Gabrielle Ribeiro Gomes:
 - [ ] Gustavo Barbosa de Oliveira:
 - [X] Danilo Domingo Vitoriano Silva: *180015311*
