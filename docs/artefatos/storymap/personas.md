@@ -81,5 +81,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão| Data | Descrição | Responsável|
 |-------|------|-----------|------------|
-| 0.1 | 10/11/2024 | Documentação das personas | Marcos Deus |
+| 1.0 | 10/11/2024 | Documentação das personas | Marcos Deus |
 
