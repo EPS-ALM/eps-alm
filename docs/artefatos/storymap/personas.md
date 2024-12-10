@@ -11,6 +11,7 @@ A seguir, apresentamos as personas e a antipersona definidas para o nosso projet
 ### 1.1 Júlia Ferreira Costa
 
 <img src="../../assets/persona-1.jpeg" alt="pastas" class="img-medium">
+<figcaption>Fonte: This Person Does Not Exist</figcaption>
 
 - **Nome:** Júlia Ferreira Costa
 - **Profissão:** Médica residente em dermatologia
@@ -31,6 +32,7 @@ A seguir, apresentamos as personas e a antipersona definidas para o nosso projet
 ### 1.2 Felipe Santos de Oliveira
 
 <img src="../../assets/persona-2.jpeg" alt="pastas" class="img-medium">
+<figcaption>Fonte: This Person Does Not Exist</figcaption>
 
 - **Nome:** Felipe Santos de Oliveira
 - **Profissão:** Auxiliar administrativo
@@ -54,6 +56,7 @@ A seguir, apresentamos as personas e a antipersona definidas para o nosso projet
 ### 2.1 Eduardo Almeida Barreto
 
 <img src="../../assets/antipersona.jpeg" alt="pastas" class="img-medium">
+<figcaption>Fonte: This Person Does Not Exist</figcaption>
 
 - **Nome:** Eduardo Almeida Barreto
 - **Profissão:** Empresário aposentado
