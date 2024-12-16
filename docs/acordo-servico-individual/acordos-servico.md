@@ -14,7 +14,6 @@
 | 180119231 | Eduardo Maia Rezende           | [Acordo de Serviço Individual](./Acordo_de_Servico_EduardoMaia.pdf)               | Desenvolvedor      | Ativos             |
 | 190027088 | Eliás Yousef                   | [Acordo de Serviço Individual](./Acordo_de_Servico_EliasYousef_ALM.pdf)           | Desenvolvedor      | Riscos <br> Design |
 | 180016491 | Fernando Vargas                | [Acordo de Serviço Individual](./Acordo_de_Servico_FernandoVargas_ALM.pdf)        | Desenvolvedor      | Ativos             |
-| 170011020 | Gabrielle Ribeiro              | [Acordo de Serviço Individual](./Acordo_de_Servico_GabrielleRibeiro_ALM.pdf)      | Desenvolvedor      | Passivos           |
 | 180042041 | Gustavo Barbosa                | [Acordo de Serviço Individual](./Acordo_de_Servico_GustavoBarbosa_ALM.pdf)        | Desenvolvedor      | Passivos           |
 | 200019228 | Gustavo Martins Ribeiro        | [Acordo de Serviço Individual](./Acordo_de_Servico_GustavoMartinsRibeiro_ALM.pdf) | Desenvolvedor      | Passivos           |
 | 190057858 | José Luís Ramos Teixeira       | [Acordo de Serviço Individual](./Acordo_de_Servico_JoseLuis_ALM.pdf)              | Desenvolvedor      | Riscos             |

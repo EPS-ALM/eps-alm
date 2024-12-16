@@ -101,7 +101,6 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 
 ## Assinaturas
 - [X] Savio Cunha de Carvalho: *180130889*
-- [ ] Gabrielle Ribeiro Gomes:
 - [ ] Gustavo Barbosa de Oliveira:
 - [X] Danilo Domingo Vitoriano Silva: *180015311*
 - [ ] Deivid Alves de Carvalho:

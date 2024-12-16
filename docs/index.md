@@ -24,7 +24,6 @@
 | 180119231 | [Eduardo Maia Rezende][emr]            | Desenvolvedor      | Ativos                         |
 | 190027088 | [Eliás Yousef][ey]                     | Desenvolvedor      | Riscos <br> Design             |
 | 180016491 | [Fernando Vargas][fv]                  | Desenvolvedor      | Ativos                         |
-| 170011020 | [Gabrielle Ribeiro][gr]                | Desenvolvedor      | Passivos                       |
 | 180042041 | [Gustavo Barbosa][gb]                  | Desenvolvedor      | Passivos                       |
 | 200019228 | [Gustavo Martins Ribeiro][gmr]         | Desenvolvedor      | Passivos                       |
 | 190057858 | [José Luís Ramos Teixeira][jlrt]       | Desenvolvedor      | Riscos                         |
@@ -58,7 +57,6 @@
 [emr]: https://github.com/eduardomr
 [ey]: https://github.com/eliasyousef00
 [fv]: https://github.com/SFernandoS
-[gr]: https://github.com/Gabrielle-Ribeiro
 [gb]: https://github.com/brbsg
 [gmr]: https://github.com/gustavomartins-github
 [jlrt]: https://github.com/joseluis-rt
