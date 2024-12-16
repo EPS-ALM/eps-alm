@@ -5,7 +5,6 @@
 - Savio Cunha de Carvalho
 - Gabrielle Ribeiro Gomes
 - Gustavo Barbosa de Oliveira
-- Danilo Domingo Vitoriano Silva 
 - Deivid Alves de Carvalho
 - Gustavo Martins Ribeiro
 - Cristian Souza Assis Furtado
@@ -102,7 +101,6 @@ Este acordo será revisado trimestralmente ou em caso de alterações no projeto
 ## Assinaturas
 - [X] Savio Cunha de Carvalho: *180130889*
 - [ ] Gustavo Barbosa de Oliveira:
-- [X] Danilo Domingo Vitoriano Silva: *180015311*
 - [ ] Deivid Alves de Carvalho:
 - [X] Gustavo Martins Ribeiro:
 - [X] Cristian Souza Assis Furtado: *170008291*
