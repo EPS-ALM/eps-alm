@@ -39,14 +39,14 @@
   
 ## Artefatos
 
-| Artefato                                                                                                           | Descrição                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [Termo de Abertura do Projeto](./docs/artefatos/tap.md)                                                            | Documento que formaliza o início do projeto, descrevendo seus objetivos, escopo e os principais envolvidos.  |
-| [Identificação das Partes Interessadas](#participantes)                                                            | Lista de interessados e seus papeis e sua equipe de atuação.                                                 |
-| [Distribuição de Papéis e Responsabilidades Gerenciamento de Ativos](./docs/artefatos/acordo-equipe_ativos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Ativos.          |
-| [Distribuição de Papéis e Responsabilidades Gerenciamento de Passivos](./docs/artefatos/acordo-equipe_passivos.md) | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Passados.        |
-| [Distribuição de Papéis e Responsabilidades Gerenciamento de Riscos](./docs/artefatos/acordo-equipe_riscos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Riscos.          |
-| Acordos de Serviço                                                                                                 | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto. |
+| Artefato                                                                                                      | Descrição                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [Termo de Abertura do Projeto](./artefatos/tap.md)                                                            | Documento que formaliza o início do projeto, descrevendo seus objetivos, escopo e os principais envolvidos.  |
+| [Identificação das Partes Interessadas](#participantes)                                                       | Lista de interessados e seus papeis e sua equipe de atuação.                                                 |
+| [Distribuição de Papéis e Responsabilidades Gerenciamento de Ativos](./artefatos/acordo-equipe_ativos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Ativos.          |
+| [Distribuição de Papéis e Responsabilidades Gerenciamento de Passivos](./artefatos/acordo-equipe_passivos.md) | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Passados.        |
+| [Distribuição de Papéis e Responsabilidades Gerenciamento de Riscos](./artefatos/acordo-equipe_riscos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Riscos.          |
+| [Acordos de Serviço Individuais](./acordo-servico-individual/acordos-servico.md)                              | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto. |
 
 [rmc]: http://lattes.cnpq.br/0716559775355685  
 [afr]: https://github.com/ArthurFerreiraRodrigues

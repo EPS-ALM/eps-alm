@@ -46,7 +46,7 @@
 | [Distribuição de Papéis e Responsabilidades Gerenciamento de Ativos](./docs/artefatos/acordo-equipe_ativos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Ativos.          |
 | [Distribuição de Papéis e Responsabilidades Gerenciamento de Passivos](./docs/artefatos/acordo-equipe_passivos.md) | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Passados.        |
 | [Distribuição de Papéis e Responsabilidades Gerenciamento de Riscos](./docs/artefatos/acordo-equipe_riscos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Riscos.          |
-| Acordos de Serviço                                                                                                 | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto. |
+| [Acordos de Serviço Individuais](./docs/acordo-servico-individual/acordos-servico.md)                              | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto. |
 
 [rmc]: http://lattes.cnpq.br/0716559775355685  
 [afr]: https://github.com/ArthurFerreiraRodrigues
