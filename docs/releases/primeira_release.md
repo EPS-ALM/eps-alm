@@ -50,19 +50,17 @@ Liste as funcionalidades implementadas nesta release:
 - Monitoramento de Risco de Ativos Digitais
 - Gestão de Risco de Investimento
 - Gerenciamento de Risco de Taxa de Juros
+- Análise de crescimento vegetativo com população economicamente ativa X aposentados
+- Mostragem de liquidez da carteira, com entradas e saídas do fluxo de caixa
+- Análise de sensibilidade de carteira, com taxas SELIC, dos planos oferecidos e de cenário exagerado
+- Conversão de Notebooks para HTML
 ---
 
-## Dificuldades Encontradas
-Descreva os principais desafios enfrentados durante o desenvolvimento:
-- [Dificuldade 1] - [Como foi abordada.]
-- [Dificuldade 2] - [Impactos causados.]
-- [Dificuldade 3] - [Status atual.]
-
----
 
 ## Pendências
 Descreva as pendências conhecidas que precisam ser resolvidas:
-- [Pendência 1]
+- Dados reais de entradas e saídas
+- Definição das taxas dos planos oferecidos pela plataforma
 
 ---
 
