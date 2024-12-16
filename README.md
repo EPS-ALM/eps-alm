@@ -12,30 +12,30 @@
 
 ## Participantes
 
-| Matrícula | Membro                                 | Papel              | Equipe             |
-| --------- | -------------------------------------- | ------------------ | ------------------ |
-| NA        | [Ricardo Matos Chaim][rmc]             | Patrocinador       | -                  |
-| 200056981 | [Arthur Ferreira Rodrigues][afr]       | Gerente de Projeto | Ativos             |
-| 190016663 | [Lucas Pimentel Quintão][lpq]          | Gerente de Projeto | Ativos             |
-| 190084731 | [Augusto Durães Camargo][adc]          | Desenvolvedor      | Ativos             |
-| 170008291 | [Cristian Furtado][cf]                 | Desenvolvedor      | Passivos           |
-| 180015311 | [Danilo Domingo Vitoriano Silva][ddvs] | Desenvolvedor      | Passivos           |
-| 190026758 | [Deivid Carvalho][dc]                  | Desenvolvedor      | Passivos           |
-| 180119231 | [Eduardo Maia Rezende][emr]            | Desenvolvedor      | Ativos             |
-| 190027088 | [Eliás Yousef][ey]                     | Desenvolvedor      | Riscos <br> Design |
-| 180016491 | [Fernando Vargas][fv]                  | Desenvolvedor      | Ativos             |
-| 170011020 | [Gabrielle Ribeiro][gr]                | Desenvolvedor      | Passivos           |
-| 180042041 | [Gustavo Barbosa][gb]                  | Desenvolvedor      | Passivos           |
-| 200019228 | [Gustavo Martins Ribeiro][gmr]         | Desenvolvedor      | Passivos           |
-| 190057858 | [José Luís Ramos Teixeira][jlrt]       | Desenvolvedor      | Riscos             |
-| 180022962 | [Luis Guilherme][lg]                   | Desenvolvedor      | Front-end          |
-| 200062379 | [Marcos Vinícius de Deus][mvd]         | Desenvolvedor      | Ativos             |
-| 200042416 | [Pablo Christianno Silva Guedes][pcsg] | Desenvolvedor      | Riscos             |
-| 200073249 | [Pedro Vitor Augusto de Jesus][pvaj]   | Desenvolvedor      | Riscos             |
-| 180027239 | [Renato Britto][rb]                    | Desenvolvedor      | Risco              |
-| 180130889 | [Sávio Cunha][sc]                      | Desenvolvedor      | Passivo            |
-| 180149598 | [Victor Hugo][vh]                      | Desenvolvedor      | Riscos             |
-| 180029240 | [Wesley Santos][ws]                    | Desenvolvedor      | Riscos             |
+| Matrícula | Membro                                 | Papel              | Equipe                         |
+| --------- | -------------------------------------- | ------------------ | ------------------------------ |
+| NA        | [Ricardo Matos Chaim][rmc]             | Patrocinador       | Stakeholder <br> Project Owner |
+| 200056981 | [Arthur Ferreira Rodrigues][afr]       | Gerente de Projeto | Ativos                         |
+| 190016663 | [Lucas Pimentel Quintão][lpq]          | Gerente de Projeto | Ativos                         |
+| 190084731 | [Augusto Durães Camargo][adc]          | Desenvolvedor      | Ativos                         |
+| 170008291 | [Cristian Furtado][cf]                 | Desenvolvedor      | Passivos                       |
+| 180015311 | [Danilo Domingo Vitoriano Silva][ddvs] | Desenvolvedor      | Passivos                       |
+| 190026758 | [Deivid Carvalho][dc]                  | Desenvolvedor      | Passivos                       |
+| 180119231 | [Eduardo Maia Rezende][emr]            | Desenvolvedor      | Ativos                         |
+| 190027088 | [Eliás Yousef][ey]                     | Desenvolvedor      | Riscos <br> Design             |
+| 180016491 | [Fernando Vargas][fv]                  | Desenvolvedor      | Ativos                         |
+| 170011020 | [Gabrielle Ribeiro][gr]                | Desenvolvedor      | Passivos                       |
+| 180042041 | [Gustavo Barbosa][gb]                  | Desenvolvedor      | Passivos                       |
+| 200019228 | [Gustavo Martins Ribeiro][gmr]         | Desenvolvedor      | Passivos                       |
+| 190057858 | [José Luís Ramos Teixeira][jlrt]       | Desenvolvedor      | Riscos                         |
+| 180022962 | [Luis Guilherme][lg]                   | Desenvolvedor      | Front-end                      |
+| 200062379 | [Marcos Vinícius de Deus][mvd]         | Desenvolvedor      | Ativos                         |
+| 200042416 | [Pablo Christianno Silva Guedes][pcsg] | Desenvolvedor      | Riscos                         |
+| 200073249 | [Pedro Vitor Augusto de Jesus][pvaj]   | Desenvolvedor      | Riscos                         |
+| 180027239 | [Renato Britto][rb]                    | Desenvolvedor      | Risco                          |
+| 180130889 | [Sávio Cunha][sc]                      | Desenvolvedor      | Passivo                        |
+| 180149598 | [Victor Hugo][vh]                      | Desenvolvedor      | Riscos                         |
+| 180029240 | [Wesley Santos][ws]                    | Desenvolvedor      | Riscos                         |
   
 ## Artefatos
 
