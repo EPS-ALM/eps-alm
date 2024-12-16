@@ -31,7 +31,6 @@
 | 200062379 | [Marcos Vinícius de Deus][mvd]         | Desenvolvedor      | Ativos                         |
 | 200042416 | [Pablo Christianno Silva Guedes][pcsg] | Desenvolvedor      | Riscos                         |
 | 200073249 | [Pedro Vitor Augusto de Jesus][pvaj]   | Desenvolvedor      | Riscos                         |
-| 180027239 | [Renato Britto][rb]                    | Desenvolvedor      | Risco                          |
 | 180130889 | [Sávio Cunha][sc]                      | Desenvolvedor      | Passivo                        |
 | 180149598 | [Victor Hugo][vh]                      | Desenvolvedor      | Riscos                         |
 | 180029240 | [Wesley Santos][ws]                    | Desenvolvedor      | Riscos                         |

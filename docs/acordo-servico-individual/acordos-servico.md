@@ -21,7 +21,6 @@
 | 200062379 | Marcos Vinícius de Deus        | [Acordo de Serviço Individual](./Acordo_de_Servico_MarcosDeus_ALM.pdf)            | Desenvolvedor      | Ativos             |
 | 200042416 | Pablo Christianno Silva Guedes | [Acordo de Serviço Individual](./Acordo_de_Servico_PabloGuedes_ALM.pdf)           | Desenvolvedor      | Riscos             |
 | 200073249 | Pedro Vitor Augusto de Jesus   | [Acordo de Serviço Individual](./Acordo_de_Servico_PedroJesus_ALM.pdf)            | Desenvolvedor      | Riscos             |
-| 180027239 | Renato Britto                  | [Acordo de Serviço Individual](./Acordo_de_Servico_RenatoBritto_ALM.pdf)          | Desenvolvedor      | Risco              |
 | 180130889 | Sávio Cunha                    | [Acordo de Serviço Individual](./Acordo_de_Servico_SavioCunha_ALM.pdf)            | Desenvolvedor      | Passivo            |
 | 180149598 | Victor Hugo                    | [Acordo de Serviço Individual](./Acordo_de_Servico_VictorHugo_ALM.pdf)            | Desenvolvedor      | Riscos             |
 | 180029240 | Wesley Santos                  | [Acordo de Serviço Individual](./Acordo_de_Servico_WesleySantos_ALM.pdf)          | Desenvolvedor      | Riscos             |
