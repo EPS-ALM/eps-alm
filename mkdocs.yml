@@ -5,19 +5,22 @@ nav:
   - Relatório de Status: artefatos/relatorio-semanal.md
   - Atas: artefatos/atas-reunioes.md
   - Artefatos:
+    - Abertura do Projeto:
       - Termo de Abertura do Projeto: artefatos/tap.md
       - Termo de Acordo de Serviço: artefatos/ts.md
       - Termo de Acordo de Serviço Individual: acordo-servico-individual/acordos-servico.md
-      - Story map:
-          - Personas: artefatos/storymap/personas.md
-          - Elicitação de requisitos: artefatos/storymap/elicitacao-requisitos.md
-          - Histórias de usuário: artefatos/storymap/historias-usuario.md
-          - Épicos: artefatos/storymap/epicos.md
       - Acordos de Serviço:
           - Termo de Acordo de Serviço (Equipe Gestão de Ativos): artefatos/acordo-equipe_ativos.md
           - Termo de Acordo de Serviço (Equipe Gestão de Passivos): artefatos/acordo-equipe_passivos.md
           - Termo de Acordo de Serviço (Equipe Gestão de Riscos): artefatos/acordo-equipe_riscos.md
-      - Documento de Arquitetura de Software: artefatos/arquitetura.md
+    - Story map:
+      - Personas: artefatos/storymap/personas.md
+      - Elicitação de requisitos: artefatos/storymap/elicitacao-requisitos.md
+      - Histórias de usuário: artefatos/storymap/historias-usuario.md
+      - Épicos: artefatos/storymap/epicos.md
+      - Priorização: artefatos/storymap/priorizacao.md
+    - Documento de Arquitetura de Software: artefatos/arquitetura.md
+    - Protótipo de Interface: artefatos/prototipo.md
 
 markdown_extensions:
   - admonition
@@ -27,7 +30,7 @@ markdown_extensions:
 theme:
   name: "material"
   palette:
-    primary: light green
+    primary: green
     accent: deep orange
   theme:
     font:
