@@ -7,6 +7,7 @@ nav:
   - Artefatos:
       - Termo de Abertura do Projeto: artefatos/tap.md
       - Termo de Acordo de Serviço: artefatos/ts.md
+      - Termo de Acordo de Serviço Individual: acordo-servico-individual/acordos-servico.md
       - Story map:
           - Personas: artefatos/storymap/personas.md
           - Elicitação de requisitos: artefatos/storymap/elicitacao-requisitos.md

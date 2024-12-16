@@ -12,39 +12,41 @@
 
 ## Participantes
 
-| Cargo              | Membro                                 | Matrícula |
-| ------------------ | -------------------------------------- | --------- |
-| Patrocinador       | [Ricardo Matos Chaim][rmc]             | N/A       |
-| Gerente de Projeto | [Arthur Ferreira Rodrigues][afr]       | 200056981 |
-| Gerente de Projeto | [Lucas Pimentel Quintão][lpq]          | 190016663 |
-| Desenvolvedor      | [Augusto Durães Camargo][adc]          | 190084731 |
-| Desenvolvedor      | [Cristian Furtado][cf]                 | 170008291 |
-| Desenvolvedor      | [Danilo Domingo Vitoriano Silva][ddvs] | 180015311 |
-| Desenvolvedor      | [Deivid Carvalho][dc]                  | 190026758 |
-| Desenvolvedor      | [Eduardo Maia Rezende][emr]            | 180119231 |
-| Desenvolvedor      | [Eliás Yousef][ey]                     | 190027088 |
-| Desenvolvedor      | [Fernando Vargas][fv]                  | 180016491 |
-| Desenvolvedor      | [Gabrielle Ribeiro][gr]                | 170011020 |
-| Desenvolvedor      | [Gustavo Barbosa][gb]                  | 180042041 |
-| Desenvolvedor      | [Gustavo Martins Ribeiro][gmr]         | 200019228 |
-| Desenvolvedor      | [José Luís Ramos Teixeira][jlrt]       | 190057858 |
-| Desenvolvedor      | [Luis Guilherme][lg]                   | 180022962 |
-| Desenvolvedor      | [Marcos Vinícius de Deus][mvd]         | 200062379 |
-| Desenvolvedor      | [Pablo Christianno Silva Guedes][pcsg] | 200042416 |
-| Desenvolvedor      | [Pedro Vitor Augusto de Jesus][pvaj]   | 200073249 |
-| Desenvolvedor      | [Renato Britto][rb]                    | 180027239 |
-| Desenvolvedor      | [Sávio Cunha][sc]                      | 180130889 |
-| Desenvolvedor      | [Victor Hugo][vh]                      | 180149598 |
-| Desenvolvedor      | [Wesley Santos][ws]                    | 180029240 |
-
+| Matrícula | Membro                                 | Papel              | Equipe             |
+| --------- | -------------------------------------- | ------------------ | ------------------ |
+| NA        | [Ricardo Matos Chaim][rmc]             | Patrocinador       | -                  |
+| 200056981 | [Arthur Ferreira Rodrigues][afr]       | Gerente de Projeto | Ativos             |
+| 190016663 | [Lucas Pimentel Quintão][lpq]          | Gerente de Projeto | Ativos             |
+| 190084731 | [Augusto Durães Camargo][adc]          | Desenvolvedor      | Ativos             |
+| 170008291 | [Cristian Furtado][cf]                 | Desenvolvedor      | Passivos           |
+| 180015311 | [Danilo Domingo Vitoriano Silva][ddvs] | Desenvolvedor      | Passivos           |
+| 190026758 | [Deivid Carvalho][dc]                  | Desenvolvedor      | Passivos           |
+| 180119231 | [Eduardo Maia Rezende][emr]            | Desenvolvedor      | Ativos             |
+| 190027088 | [Eliás Yousef][ey]                     | Desenvolvedor      | Riscos <br> Design |
+| 180016491 | [Fernando Vargas][fv]                  | Desenvolvedor      | Ativos             |
+| 170011020 | [Gabrielle Ribeiro][gr]                | Desenvolvedor      | Passivos           |
+| 180042041 | [Gustavo Barbosa][gb]                  | Desenvolvedor      | Passivos           |
+| 200019228 | [Gustavo Martins Ribeiro][gmr]         | Desenvolvedor      | Passivos           |
+| 190057858 | [José Luís Ramos Teixeira][jlrt]       | Desenvolvedor      | Riscos             |
+| 180022962 | [Luis Guilherme][lg]                   | Desenvolvedor      | Front-end          |
+| 200062379 | [Marcos Vinícius de Deus][mvd]         | Desenvolvedor      | Ativos             |
+| 200042416 | [Pablo Christianno Silva Guedes][pcsg] | Desenvolvedor      | Riscos             |
+| 200073249 | [Pedro Vitor Augusto de Jesus][pvaj]   | Desenvolvedor      | Riscos             |
+| 180027239 | [Renato Britto][rb]                    | Desenvolvedor      | Risco              |
+| 180130889 | [Sávio Cunha][sc]                      | Desenvolvedor      | Passivo            |
+| 180149598 | [Victor Hugo][vh]                      | Desenvolvedor      | Riscos             |
+| 180029240 | [Wesley Santos][ws]                    | Desenvolvedor      | Riscos             |
+  
 ## Artefatos
 
-| Artefato                                          | Descrição                                                                                                                            |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Termo de Abertura do Projeto][termo-de-abertura] | Documento que formaliza o início do projeto, descrevendo seus objetivos, escopo e os principais envolvidos.                          |
-| Identificação das Partes Interessadas             | Documento com a lista das partes interessadas, detalhando seus papéis e interesses no projeto.                                       |
-| Distribuição de Papéis                            | Descrição dos papéis e responsabilidades de cada participante, com foco na definição das funções para facilitar o fluxo de trabalho. |
-| Acordos de Serviço                                | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto.                         |
+| Artefato                                                                                                           | Descrição                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| [Termo de Abertura do Projeto](./docs/artefatos/tap.md)                                                            | Documento que formaliza o início do projeto, descrevendo seus objetivos, escopo e os principais envolvidos.  |
+| [Identificação das Partes Interessadas](#participantes)                                                            | Lista de interessados e seus papeis e sua equipe de atuação.                                                 |
+| [Distribuição de Papéis e Responsabilidades Gerenciamento de Ativos](./docs/artefatos/acordo-equipe_ativos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Ativos.          |
+| [Distribuição de Papéis e Responsabilidades Gerenciamento de Passivos](./docs/artefatos/acordo-equipe_passivos.md) | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Passados.        |
+| [Distribuição de Papéis e Responsabilidades Gerenciamento de Riscos](./docs/artefatos/acordo-equipe_riscos.md)     | Descrição dos papéis e responsabilidades de cada participante da frente de Gerenciamento de Riscos.          |
+| Acordos de Serviço                                                                                                 | Documento que formaliza os compromissos e níveis de serviço acordados entre as partes envolvidas no projeto. |
 
 [rmc]: http://lattes.cnpq.br/0716559775355685  
 [afr]: https://github.com/ArthurFerreiraRodrigues
