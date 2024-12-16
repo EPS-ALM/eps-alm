@@ -70,3 +70,66 @@ Esse documento tem como objetivo apresentar os relatórios semanais do projeto d
 - **Identificação e Mitigação de Riscos**: Identificação e mitigação dos riscos do projeto.
 - **Início do Desenvolvimento**: Início do desenvolvimento do protótipo do sistema de ALM.
 - **Definição dos Critérios de Aceitação**: Definição dos critérios de aceitação para cada funcionalidade do sistema.
+
+## Semana 5: 24/11/2024 a 30/11/2024
+
+### Atividades Realizadas
+
+- **Desenvolvimento do Protótipo**: Desenvolvimento do protótipo do sistema de ALM utilizando a ferramenta Figma.
+- **Definição dos Critérios de Aceitação**: Definição dos critérios de aceitação para cada funcionalidade do sistema.
+- **Identificação e Mitigação de Riscos**: Identificação e mitigação dos riscos do projeto.
+- **Revisão dos Acordos de Serviço**: Revisão dos acordos de serviço para cada equipe envolvida no projeto.
+
+### Desafios Enfrentados
+
+- **Desenvolvimento do Protótipo**: Dificuldade em desenvolver o protótipo do sistema de ALM de acordo com as especificações do cliente.
+- **Definição dos Critérios de Aceitação**: Dificuldade em definir critérios de aceitação claros e mensuráveis para cada funcionalidade do sistema.
+
+### Próximas Etapas
+
+- **Desenvolvimento do Frontend**: Início do desenvolvimento do frontend do sistema de ALM.
+- **Desenvolvimento do Backend**: Início do desenvolvimento do backend do sistema de ALM.
+- **Desenvolvimento dos Módulos de Gestão de Ativos, Passivos e Riscos**: Início do desenvolvimento dos módulos de gestão de ativos, passivos e riscos do sistema.
+
+## Semana 6: 01/12/2024 a 07/12/2024
+
+### Atividades Realizadas
+
+- **Desenvolvimento do Frontend**: Início do desenvolvimento do frontend do sistema de ALM.
+- **Desenvolvimento do Backend**: Início do desenvolvimento do backend do sistema de ALM.
+- **Desenvolvimento dos Módulos de Gestão de Ativos, Passivos e Riscos**: Início do desenvolvimento dos módulos de gestão de ativos, passivos e riscos do sistema.
+
+### Desafios Enfrentados
+
+- **Desenvolvimento do Backend**: Dificuldade em integrar o backend do sistema de ALM com os módulos de gestão de ativos, passivos e riscos.
+- **Requisitos de Funcionalidades**: Dificuldade em definir os requisitos de funcionalidades para cada módulo do sistema.
+
+### Próximas Etapas
+
+- **Desenvolvimento dos Módulos de Gestão de Ativos, Passivos e Riscos**: Continuação do desenvolvimento dos módulos de gestão de ativos, passivos e riscos do sistema.
+- **Integração dos Módulos**: Integração dos módulos de gestão de ativos, passivos e riscos com o frontend e o backend do sistema.
+- **Testes de Aceitação**: Realização dos testes de aceitação para garantir a qualidade e eficiência do sistema.
+
+## Semana 7: 08/12/2024 a 14/12/2024
+
+### Atividades Realizadas
+
+- **Desenvolvimento dos Módulos de Gestão de Ativos, Passivos e Riscos**: Continuação do desenvolvimento dos módulos de gestão de ativos, passivos e riscos do sistema.
+- **Integração dos Módulos**: Integração dos módulos de gestão de ativos, passivos e riscos com o frontend e o backend do sistema.
+- **Testes de Aceitação**: Realização dos testes de aceitação para garantir a qualidade e eficiência do sistema.
+
+### Desafios Enfrentados
+
+- **Integração dos Módulos**: Dificuldade em integrar os módulos de gestão de ativos, passivos e riscos com o frontend e o backend do sistema.
+- **Testes de Aceitação**: Dificuldade em realizar os testes de aceitação de forma eficiente e eficaz devido a modularização do código.
+
+### Próximas Etapas
+
+- **Release MVP**: Lançamento do MVP do sistema de ALM para validação do cliente.
+- **Ajustes e Melhorias**: Realização dos ajustes e melhorias necessários com base no feedback do cliente.
+
+## Semana 8: 15/12/2024 a 21/12/2024
+
+### Atividades Realizadas
+
+- **Release MVP 16/12/2024**: Lançamento do MVP do sistema de ALM para validação do cliente.
