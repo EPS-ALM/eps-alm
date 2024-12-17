@@ -3,9 +3,28 @@
 ## Visão Geral
 Este documento descreve as funcionalidades entregues, dificuldades encontradas, melhorias e pendências do projeto. Além disso, apresenta uma explicação de cada repositório associado ao projeto.
 
----
+## O Produto - Link para o MVP
+
+O ALM é um sistema de gestão de ativos e passivos que visa auxiliar na tomada de decisões financeiras. A plataforma oferece funcionalidades como previsão de preço de ação, alocação ideal da carteira, análise de risco país, monitoramento de risco de ativos digitais, gestão de risco de investimento, gerenciamento de risco de taxa de juros, entre outros.
+
+> **Para acessar a plataforma, clique** [aqui](https://alm-frontend.onrender.com/).
+
+## Funcionalidades e Serviços
+Liste as funcionalidades implementadas nesta release:
+- Previsão de preço de ação utilizando LSTM
+- Previsão de preço de ação utilizando VAR
+- ⁠Alocação ideal da carteira usando Teoria do Portfólio Moderno de Markowitz
+- Alocação ideal da carteira usando Índice de Sharpe
+- Análise de Risco País
+- Monitoramento de Risco de Ativos Digitais
+- Gestão de Risco de Investimento
+- Gerenciamento de Risco de Taxa de Juros
+- Análise de crescimento vegetativo com população economicamente ativa X aposentados
+- Mostragem de liquidez da carteira, com entradas e saídas do fluxo de caixa
+- Análise de sensibilidade de carteira, com taxas SELIC, dos planos oferecidos e de cenário exagerado
 
 ## Repositórios do Projeto
+
 ### 1. [alm-risk-manager](https://github.com/EPS-ALM/alm-risk-manager)
 - **Objetivo**: Gestão de riscos.
 - **Principais Componentes**:
@@ -37,35 +56,33 @@ Este documento descreve as funcionalidades entregues, dificuldades encontradas, 
 ### 5. [stocks-forecasting](https://github.com/EPS-ALM/stocks-forecasting)
 - **Objetivo**: Rede neural para o forecast do valor dos ativos definidos.
 - **Principais Componentes**:
-    - predições de curto prazo;
----
+    - Predições curto prazo de preços de ações utilizando diversos modelos de redes neurais.
 
-## Funcionalidades Entregues
-Liste as funcionalidades implementadas nesta release:
-- Previsão de preço de ação utilizando LSTM
-- Previsão de preço de ação utilizando VAR
-- ⁠Alocação ideal da carteira usando Teoria do Portfólio Moderno de Markowitz
-- Alocação ideal da carteira usando Índice de Sharpe
-- Análise de Risco País
-- Monitoramento de Risco de Ativos Digitais
-- Gestão de Risco de Investimento
-- Gerenciamento de Risco de Taxa de Juros
-- Análise de crescimento vegetativo com população economicamente ativa X aposentados
-- Mostragem de liquidez da carteira, com entradas e saídas do fluxo de caixa
-- Análise de sensibilidade de carteira, com taxas SELIC, dos planos oferecidos e de cenário exagerado
-- Conversão de Notebooks para HTML
----
 
+## Continuous Integration
+
+Devido a natureza do projeto, a integração contínua é realizada apenas na camada `service`. A integração contínua é realizada através do GitHub Actions, que executa testes automatizados e verifica a qualidade do código a cada push realizado no repositório.
+
+- **alm-service**: [workflow](https://github.com/EPS-ALM/alm-service/blob/main/.github/workflows/ci.yml)
+
+## Continuous Deployment
+
+O projeto está configurado para realizar o deploy automático no Heroku. Abaixo estão listados os links para os serviços disponíveis:
+
+- **Service**: [alm-service](https://alm-service-eae21cd8fb32.herokuapp.com/portfolio-allocation)
+- **Assets**: [alm-assets](https://alm-assets-898cc81ff044.herokuapp.com/)
+- **Risk Manager**: [alm-risk-manager](https://almriskmanager-16e9ecd81666.herokuapp.com/)
+- **Liability**: [alm-liability](http://187.84.176.16:10100/docs)
+- **Docs**: [alm-docs](https://eps-alm.github.io/alm-docs/) - [workflow](https://github.com/EPS-ALM/alm-docs/blob/main/.github/workflows/main.yml)
 
 ## Pendências
 Descreva as pendências conhecidas que precisam ser resolvidas:
-- Dados reais de entradas e saídas
-- Definição das taxas dos planos oferecidos pela plataforma
+- Dados reais de entradas e saídas do fluxo de caixa
+- Estudo para definição das taxas dos planos oferecidos pela plataforma
 
----
 
 ## Links Úteis  
-Inclua links importantes para facilitar a navegação:  
+
 - **Repositórios**:  
   - [alm-risk-manager](https://github.com/EPS-ALM/alm-risk-manager)  
   - [alm-service](https://github.com/EPS-ALM/alm-service)  
@@ -95,10 +112,10 @@ Inclua links importantes para facilitar a navegação:
   - [Passivos](https://github.com/EPS-ALM/alm-docs/labels/passivos)
   - [Riscos](https://github.com/EPS-ALM/alm-docs/labels/riscos)
   - [Features](https://github.com/EPS-ALM/alm-docs/labels/Feature) 
----
 
 ## Versionamento
 
-| Versão | Data       | Descrição                    | Responsável     |
-| ------ | ---------- | ---------------------------- | --------------- |
-| 1.0    | 16/12/2024 | Criação da Página            | Fernando Vargas |
+| Versão | Data       | Descrição                      | Responsável     |
+| ------ | ---------- | ------------------------------ | --------------- |
+| 1.0    | 16/12/2024 | Criação da Página              | Fernando Vargas |
+| 1.1    | 17/12/2024 | Adiciona CI/CD e link para MVP | Arthur Ferreira |
