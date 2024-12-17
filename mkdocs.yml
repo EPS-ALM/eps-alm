@@ -21,6 +21,8 @@ nav:
       - Priorização: artefatos/storymap/priorizacao.md
     - Documento de Arquitetura de Software: artefatos/arquitetura.md
     - Protótipo de Interface: artefatos/prototipo.md
+    - Releases:
+      - Primeira release: releases/primeira_release.md
 
 markdown_extensions:
   - admonition
